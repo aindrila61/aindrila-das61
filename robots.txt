@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aindrila61.github.io/aindrila_das/sitemap.xml
